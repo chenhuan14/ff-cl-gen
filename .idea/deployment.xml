@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="wang-1 (63f7e761-7944-4c84-81be-333a04b7a06d)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dreamer/zksnarks_recursive/ff-cl-gen" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wang-2 (9ebe9abc-8c21-43f6-bc4b-8b781650d72f)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dreamer/Project/recursive_snarks/bellman/ff-cl-gen" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
